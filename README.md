@@ -114,7 +114,7 @@ Full license: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/li
 ## Contact
 
 - GitHub: [https://github.com/BaAmadoCamunas](https://github.com/BaAmadoCamunas)  
-- LinkedIn: [LinkedIn]((https://www.linkedin.com/in/barbara-amado-camunas-riggingartist))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/barbara-amado-camunas-riggingartist)](https://www.linkedin.com/in/barbara-amado-camunas-riggingartist)
 
 ---
 

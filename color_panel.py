@@ -82,9 +82,9 @@ def write_json_config(data):
     try:
         with open(CONFIG_PATH, "w") as f:
             json.dump(data, f, indent=4)
-        cmds.inViewMessage(amg="Configuración guardada", pos="midCenter", fade=True, backColor=(0.2,0.2,0.2))
+        cmds.inViewMessage(amg="Configuration Saved", pos="midCenter", fade=True, backColor=(0.2,0.2,0.2))
     except Exception as e:
-        cmds.warning("Error guardando configuración: {}".format(e))
+        cmds.warning("Configuration saved error: {}".format(e))
 
 
 
@@ -199,7 +199,7 @@ def create_custom_color(title, slider, blocks_dict, label, swatch):
         cmds.text(label, e=True, label="Selected: Custom RGB")
 
         cmds.inViewMessage(
-            amg="Custom color creado",
+            amg="Custom color created",
             pos="midCenter",
             fade=True,
             backColor=(0.2, 0.2, 0.2)
